@@ -17,14 +17,14 @@ backend/tool_collection/mcp/
 │   ├── image_processor.py           # 图像处理器
 │   └── medical_prompts.py           # 医疗提示词模板
 └── medical_data_processing/         # 医疗数据处理模块
-├── init .py
-├── data_cleaner.py              # 数据清洗器
-├── demo_processor.py            # 演示处理器
-├── knowledge_annotator.py       # 知识标注器
-├── knowledge_base_integrator.py # 知识库集成器
-├── pathology_processor.py       # 病理处理器
-├── professional_annotator.py    # 专业标注器
-└── qa_generator.py              # Q&A生成器
+    ├── init .py
+    ├── data_cleaner.py              # 数据清洗器
+    ├── demo_processor.py            # 演示处理器
+    ├── knowledge_annotator.py       # 知识标注器
+    ├── knowledge_base_integrator.py # 知识库集成器
+    ├── pathology_processor.py       # 病理处理器
+    ├── professional_annotator.py    # 专业标注器
+    └── qa_generator.py              # Q&A生成器
 ```
 
 ## 核心工具

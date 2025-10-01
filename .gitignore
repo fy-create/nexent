@@ -36,3 +36,4 @@ model-assets/
 my-task/model_management/venv/
 my-task/knowledge_base_automation/venv/
 my-task/my-doc/题目要求-native.md
+my-task/model_management/.env
