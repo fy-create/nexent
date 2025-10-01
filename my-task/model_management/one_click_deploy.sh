@@ -7,7 +7,7 @@ set -e  # 遇到错误立即退出
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 CONFIG_FILE="${SCRIPT_DIR}/models_config.json"
-ENV_FILE="${SCRIPT_DIR}/.env"
+ENV_FILE="${SCRIPT_DIR}/.env.txt"
 API_URL="http://localhost:5010"
 
 echo "🚀 Nexent 一键模型部署脚本"
